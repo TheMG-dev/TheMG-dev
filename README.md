@@ -1,8 +1,6 @@
 - 👋 olá, me chamo Miguel;
 - 👀 sou interessado em Programação (lua, javascript e python);
 - 🌱 atualmente estou estudando (html, css e javascript!);
-- 📫 How to reach me ... 
-- 😄 Pronouns: 
 - ⚡ Fun fact: ...
 
 <!---
